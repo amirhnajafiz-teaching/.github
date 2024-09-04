@@ -8,6 +8,7 @@ Feel free to contribute on the topics that you are interested in.
 
 | Title | Date | Place | Course |
 | ----- | ---- |-------|--------|
+| XV6 Installation | Sep 2024 | Stony Brook University | Operating Systems |
 | Kubernetes | May 2023 | Amirkabir University of Tehran | Cloud Computing |
 | Docker | April 2023 | Amirkabir University of Tehran | Cloud Computing |
 | Microservice | April 2023 | Amirkabir University of Tehran | Cloud Computing |
